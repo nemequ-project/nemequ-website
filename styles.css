@@ -1,0 +1,87 @@
+/*
+===GLOBAL===
+*/
+h1,h2,h3,h4,h5 {
+  font-family: 'Raleway';
+  font-weight: bold;
+}
+
+p {
+  font-family: 'helvetica';
+}
+
+.btn-lg {
+  border-radius: 0;
+  font-weight: bold;
+}
+
+/*
+===MY CLASSES===
+*/
+
+.content-row {
+  padding-top: 6em;
+  padding-bottom: 6em;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-family: 'Raleway';
+}
+
+.nemequ-portal-navbar {
+  padding-top: 1em;
+}
+
+.nav-logo {
+  height: 50px;
+  margin-right: 2em; 
+}
+
+/*
+===COLOR SCHEMES===
+*/
+
+/* white and purple*/
+
+.white-purple h1 {
+  color: #6A2272;
+}
+
+.white-purple button {
+  background-color: #6A2272;
+  color: white;
+}
+
+.white-purple button:hover {
+  background-color: #864D8D;
+}
+
+/* black and red*/
+.black-red {
+  background-color: black;
+  color: white;
+}
+
+.black-red h1 {
+  color: #7F0000;
+}
+
+.black-red button {
+  background-color: #7F0000; 
+  color: white;
+}
+
+/* black and yellow */
+.black-yellow {
+  background-color: black;
+  color: white; 
+}
+
+.black-yellow h1 {
+  color: #F5D562;
+}
+
+.black-yellow button {
+  background-color: #F5D562;
+}
