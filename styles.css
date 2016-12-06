@@ -35,7 +35,32 @@ p {
 
 .nav-logo {
   height: 50px;
-  margin-right: 2em; 
+  margin-right: 2em;
+}
+
+.nemequ-dropdown-navbar {
+  background-color: black;
+  height: 75px;
+}
+
+.nemequ-dropdown-navbar .nav-link {
+  color: #D88E03;
+  font-size: 2em;
+} 
+
+.nemequ-dropdown-navbar .dropdown-menu {
+  background-color: black;
+}
+
+/*
+===TEXTS===
+*/
+.texts-container {
+  background-color: rgba(35, 35, 35, 0.188235);
+}
+
+.perfumes-container {
+  background-color: rgba(255, 187, 0, 0.227451);
 }
 
 /*
